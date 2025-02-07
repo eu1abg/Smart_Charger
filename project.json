@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/eu1abg/Smart_Fen/main/bin/SmartCharger_D1miniEsp32.ino.bin",
+          "path": "https://raw.githubusercontent.com/eu1abg/Smart_Fen/main/bin/SmartCharger_D1miniEsp32_copy_NEW_PWM.ino.bin",
           "offset": 0
         }
       ]
